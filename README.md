@@ -1,2 +1,2 @@
 # TaskDown
-![Screenshot](Screenshot.png)
+![Screenshot](img/Screenshot.png)
